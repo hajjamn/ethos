@@ -32,5 +32,5 @@ export default {
 
 <style lang="scss">
 @use './assets/style/general.scss';
-@use 'bootstrap'
+@use 'bootstrap/scss/bootstrap';
 </style>
