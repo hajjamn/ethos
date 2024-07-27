@@ -76,9 +76,9 @@ export default {
           <div class="col-auto">
 
             <div class="dropdown">
-              <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+              <button class="btn btn-danger dropdown-toggle" type="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
-                <font-awesome-icon :icon="['fas', 'bars']" />
+                <font-awesome-icon :icon="['fas', 'house']" />
               </button>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">Chi siamo</a></li>
@@ -90,6 +90,7 @@ export default {
                 <li><a class="dropdown-item" href="#">Mappe</a></li>
               </ul>
             </div>
+
           </div>
         </div>
       </div>
