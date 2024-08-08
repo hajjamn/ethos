@@ -112,7 +112,7 @@ export default {
   display: grid;
   grid-template-columns: repeat(5, 20px);
   grid-template-rows: repeat(6, 20px);
-  gap: 2px;
+  gap: 5px;
 }
 
 .square {
